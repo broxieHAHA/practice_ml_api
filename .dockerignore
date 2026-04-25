@@ -5,11 +5,6 @@ __pycache__
 *.pkl
 .git
 .gitignore
-README.md
-docker/Dockerfile.mlflow
-docker/Dockerfile.train
-src/train.py
-*.md
+.idea/
 mlruns/
 .env
-.idea/
