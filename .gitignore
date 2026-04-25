@@ -1,0 +1,7 @@
+model.pkl
+*.pkl
+.env
+__pycache__/
+.venv/
+mlruns/
+.idea/

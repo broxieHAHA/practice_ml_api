@@ -1,0 +1,15 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pkl
+.git
+.gitignore
+README.md
+docker/Dockerfile.mlflow
+docker/Dockerfile.train
+src/train.py
+*.md
+mlruns/
+.env
+.idea/
